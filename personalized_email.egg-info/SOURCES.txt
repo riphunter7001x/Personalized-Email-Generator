@@ -1,0 +1,5 @@
+setup.py
+personalized_email.egg-info/PKG-INFO
+personalized_email.egg-info/SOURCES.txt
+personalized_email.egg-info/dependency_links.txt
+personalized_email.egg-info/top_level.txt

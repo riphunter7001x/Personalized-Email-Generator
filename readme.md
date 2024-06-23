@@ -1,6 +1,3 @@
-Here's a `README.md` file for your project that includes instructions on setting up the environment with conda and Python 3.10, as well as an overview of the project and how to use it:
-
-```markdown
 # Personalized Email Generator
 
 This project is a personalized email generator that customizes template emails for recipients using their information. The application reads recipient details from a CSV file, personalizes the email content, and saves the personalized emails as text files.

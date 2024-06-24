@@ -17,7 +17,7 @@ This project is a personalized email generator that customizes template emails f
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/personalized-email-generator.git
+   git clone https://github.com/riphunter7001x/personalized-email-generator.git
    cd personalized-email-generator
    ```
 
@@ -75,8 +75,3 @@ first_name,last_name,email,bio,last_conversation
 John,Doe,john.doe@example.com,"John is a software engineer with 5 years of experience.","Discussed project timelines."
 Jane,Smith,jane.smith@example.com,"Jane is a marketing specialist with a knack for social media.","Talked about the new campaign."
 ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-

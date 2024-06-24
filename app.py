@@ -92,6 +92,7 @@ def main():
                                 file_name=filename,
                                 mime="text/plain"
                             )
+                        st.info("NOTE: If it generates any error, try again by clicking on Generate Personalized Emails 🚀")
             else:
                 st.error("❌ Failed to save file")
 

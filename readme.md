@@ -1,6 +1,3 @@
-Here's the updated `README.md` file with the deployed app link included:
-
-```markdown
 # Personalized Email Generator
 
 This project is a personalized email generator that customizes template emails for recipients using their information. The application reads recipient details from a CSV file, personalizes the email content, and saves the personalized emails as text files.
@@ -84,4 +81,3 @@ Jane,Smith,jane.smith@example.com,"Jane is a marketing specialist with a knack f
 You can access the deployed Streamlit app using the following link:
 
 [Personalized Email Generator App](https://personalized-email-generator.streamlit.app/)
-```
